@@ -20,5 +20,12 @@ public:
 int main() {
 	Point p(18);
 
+	int answer;
+	cin >> answer;
+	
+	Point p(answer);
+	
+
+
 }
 
